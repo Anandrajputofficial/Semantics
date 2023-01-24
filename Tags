@@ -1,0 +1,58 @@
+(1) What are the new things introduced in HTML5?
+
+HTML5 introduced several new features, including:
+
+New semantic elements, such as <header>, <footer>, <article>, and <section>, which provide more meaning to the structure of web page content.
+
+The <canvas> element, which allows for the creation of dynamic graphics and animations.
+
+The <video> and <audio> elements, which provide native support for multimedia content without the need for additional plug-ins.
+
+Web storage, which allows for more efficient data storage on the client side, and offline web application capabilities.
+
+Web sockets, which enable real-time communication between the browser and the server.
+
+Improved form controls, such as new input types (e.g., email, search) and new attributes (e.g., required, placeholder).
+
+Microdata, which allows for the embedding of structured data in HTML pages.
+
+Drag-and-drop capabilities, which allow users to drag and drop files, images, and other elements between different parts of the web page or between different web pages.
+
+(2) What are the semantic tag? give a couple of examples .
+
+Semantic tags are HTML tags that provide meaning to the structure of the content on a web page. They describe the type of content contained within them, rather than its presentation. A couple of examples of semantic tags in HTML5 are:
+
+<header> - This tag is used to define the header section of a web page, which typically contains the site title or logo, and the main navigation menu.
+
+<nav> - This tag is used to define a section of the web page that contains navigation links.
+
+<main> - This tag is used to define the main content of the web page, which is unique to the document, excluding content that is repeated across a set of documents such as site headers, footers, and navigation.
+
+<article> - This tag is used to define a self-contained piece of content, such as a blog post or news story, that can be independently syndicated.
+
+<section> - This tag is used to group content together that has a similar theme or purpose, such as a group of related articles or a set of related form controls.
+
+<aside> - This tag is used to define content that is related to the main content, but is considered separate, such as sidebar information or pull quotes.
+
+<footer> - This tag is used to define the footer section of a web page, which typically contains copyright information and links to related pages.
+
+(3) List some uses of semantic tag? 
+
+Some uses of semantic tags in HTML5 include:
+
+Improving accessibility: Semantic tags make it easier for screen readers and other assistive technologies to understand the structure and content of a web page.
+
+Enhancing search engine optimization (SEO): Search engines use the information provided by semantic tags to understand the content of a web page and rank it accordingly.
+
+Simplifying CSS styling: Semantic tags make it easier to target specific sections of a web page with CSS, making it more efficient to style and layout the page.
+
+Improving code readability: Semantic tags make it easier to understand the structure and organization of a web page when reading the HTML code.
+
+Making it easier to create responsive designs: Semantic tags can be used to create responsive designs that adapt to different screen sizes and devices.
+
+Creating reusable components: Semantic tags can be used to create reusable components that can be easily used across multiple pages, which makes development and maintenance more efficient.
+
+Facilitating dynamic updates: Semantic tags can be used to create dynamic web pages that can update without requiring a full page refresh.
+
+Creating a more organized and consistent codebase: Using semantic tags makes it easier to maintain consistency and organization throughout a codebase, making it more manageable to work with.
+
